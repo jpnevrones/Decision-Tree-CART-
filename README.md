@@ -6,8 +6,8 @@ Decision tree implementation from scratch
   - Test  - contain the classification model build based on top of iris dataset (comparision with sklearn version of decision tree)
           - no parameter tunning is performed
   
--Python version : v3.6
--dependency : numpy v1.13.1
+- Python version : v3.6
+- dependency : numpy v1.13.1
 
 #### output
 - Our Model Accuracy : 0.7368421052631579
